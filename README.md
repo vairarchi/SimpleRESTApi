@@ -12,6 +12,6 @@ In total, there are 5 end points.
 
 Book Model:
 
-name        string
-author      string
-publication string
+- name        string
+- author      string
+- publication string
